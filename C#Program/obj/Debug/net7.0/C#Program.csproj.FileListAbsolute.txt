@@ -1,0 +1,15 @@
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\bin\Debug\net7.0\C#Program.exe
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\bin\Debug\net7.0\C#Program.deps.json
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\bin\Debug\net7.0\C#Program.runtimeconfig.json
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\bin\Debug\net7.0\C#Program.dll
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\bin\Debug\net7.0\C#Program.pdb
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.csproj.AssemblyReference.cache
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.AssemblyInfoInputs.cache
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.AssemblyInfo.cs
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.csproj.CoreCompileInputs.cache
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.dll
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\refint\C#Program.dll
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.pdb
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\C#Program.genruntimeconfig.cache
+D:\Программирование\GB\Вводный курс\Final_Project\C#Program\obj\Debug\net7.0\ref\C#Program.dll
